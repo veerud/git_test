@@ -1,1 +1,1 @@
-This is GeethaVeerendhar's first git project
+This is Geetha's first git project
